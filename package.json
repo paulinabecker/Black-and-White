@@ -1,0 +1,20 @@
+{
+  "name": "black-and-white",
+  "version": "1.0.0",
+  "description": "Descripción\r La empresa Black and White Spa está promocionando una campaña para las redes sociales\r en donde quieren ofrecer un sitio web que permita escribir la URL de una imagen de internet\r y que ésta sea procesada por el servidor para ser devuelta en blanco y negro.\r Deberás crear un servidor que disponibilice una ruta raíz que devuelva un HTML con el\r formulario para ingresar la URL de la imagen con estilos CSS de un documento interno en los\r archivos del servidor. El formulario debe redirigir a otra ruta del servidor que procese la\r imagen y la devuelva en blanco y negro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "file-system": "^2.2.2",
+    "jimp": "^0.22.12",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  }
+}

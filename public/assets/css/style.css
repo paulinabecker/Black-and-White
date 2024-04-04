@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    background-color: black;
+    width: 350px;
+    height: 200px;
+}
+
+.form {
+    width: 300px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
