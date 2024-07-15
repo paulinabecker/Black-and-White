@@ -1,6 +1,7 @@
 # Black-and-White
 
 Descripción
+
 La empresa Black and White Spa está promocionando una campaña para las redes sociales
 en donde quieren ofrecer un sitio web que permita escribir la URL de una imagen de internet
 y que ésta sea procesada por el servidor para ser devuelta en blanco y negro.
